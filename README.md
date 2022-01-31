@@ -1,1 +1,1 @@
-# urban_waste_localization_and_classification
+# Urban Waste Localization And Classification
